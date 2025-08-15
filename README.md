@@ -25,6 +25,7 @@ superstore-analysis/
 
 
 数据集不包含在仓库中，请自行下载 Superstore 数据并放入 datasets/ 目录。（https://www.kaggle.com/datasets/vivek468/superstore-dataset-final）
+注意：项目中的训练模型较大（400MB+），未包含在仓库中。如需使用模型，请自行运行代码生成。
 
 工作流程：
 1.数据预处理：缺失值处理、时间字段拆解、特征编码、数值特征保留
@@ -47,4 +48,5 @@ superstore-analysis/
 - 企业销售数据分析与季度汇报
 - 电商平台的会员分群与营销策略优化
 - 零售行业的库存与生产计划预测
+
 - 数据分析岗、商业智能岗面试作品集展示
