@@ -9,6 +9,7 @@
 - 客户价值分群（RFM 模型）：将客户分为高、中、低价值群体，用于精准营销与会员管理。
 - 可视化展示：用 Python 和 Power BI 输出可视化报表，直观呈现业务现状与趋势。
 
+```
 项目结构：
 superstore-analysis/
 ├── datasets/                     # 数据集（需自行下载）
@@ -22,7 +23,7 @@ superstore-analysis/
 │   ├── loss_predictions.csv        # 亏损预测结果
 │   ├── monthly_sales_forecast.csv  # 时间序列预测结果
 │   └── customer_clusters.csv       # 客户分群结果
-
+```
 
 数据集不包含在仓库中，请自行下载 Superstore 数据并放入 datasets/ 目录。（https://www.kaggle.com/datasets/vivek468/superstore-dataset-final）
 注意：项目中的训练模型较大（400MB+），未包含在仓库中。如需使用模型，请自行运行代码生成。
@@ -50,3 +51,4 @@ superstore-analysis/
 - 零售行业的库存与生产计划预测
 
 - 数据分析岗、商业智能岗面试作品集展示
+
